@@ -28,7 +28,6 @@ public class Caesar {
 		return result;
 	}
 	
-
 	public static void main(String[] args) {
 		String plain = "VENIVIDIVICI";
 		
