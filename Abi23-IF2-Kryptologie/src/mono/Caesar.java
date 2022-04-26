@@ -22,7 +22,7 @@ public class Caesar {
 			
 			result += shift( arg.charAt(0), 'S'-65 ); // S
 			result += shift( arg.charAt(1), 'W'-65 ); // W
-			result += shift( arg.charAt(2), 'O'-65 ); // W
+			result += shift( arg.charAt(2), 'O'-65 ); // O
 			// ..
 			
 		return result;
